@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="conceito/conceito.csproj" />
+  <Project Path="ListaContatosArquivos/ListaContatosArquivos.csproj" />
+</Solution>
